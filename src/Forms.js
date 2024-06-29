@@ -23,7 +23,7 @@ function Form() {
               value={amount}
               onChange={(e) => {
                 let data = e.target.value;
-                setAmount(data);
+                setAmount
               }}
             />
           </div>
